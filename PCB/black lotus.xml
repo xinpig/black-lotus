@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\xinpig\Documents\kbd projects\black lotus\black lotus.sch</source>
+    <date>4/28/2018 1:05:15 AM</date>
+    <tool>Eeschema 4.0.7</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>black lotus.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="U1">
+      <value>ProMicro</value>
+      <libsource lib="helix-cache" part="ProMicro"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAC15E</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAC1F3</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAC2C8</tstamp>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAC339</tstamp>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAC37A</tstamp>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAC3D2</tstamp>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAC429</tstamp>
+    </comp>
+    <comp ref="SW7">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAC97C</tstamp>
+    </comp>
+    <comp ref="SW8">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAC983</tstamp>
+    </comp>
+    <comp ref="SW9">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAC98A</tstamp>
+    </comp>
+    <comp ref="SW10">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAC991</tstamp>
+    </comp>
+    <comp ref="SW11">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAC998</tstamp>
+    </comp>
+    <comp ref="SW12">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAC99F</tstamp>
+    </comp>
+    <comp ref="SW13">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEACBAD</tstamp>
+    </comp>
+    <comp ref="SW14">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEACBB4</tstamp>
+    </comp>
+    <comp ref="SW15">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEACBBB</tstamp>
+    </comp>
+    <comp ref="SW16">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEACBC2</tstamp>
+    </comp>
+    <comp ref="SW17">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEACBC9</tstamp>
+    </comp>
+    <comp ref="SW18">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEACBD0</tstamp>
+    </comp>
+    <comp ref="SW19">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEACE50</tstamp>
+    </comp>
+    <comp ref="SW20">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEACE57</tstamp>
+    </comp>
+    <comp ref="SW21">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEACE5E</tstamp>
+    </comp>
+    <comp ref="SW22">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEACE65</tstamp>
+    </comp>
+    <comp ref="SW23">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEACE6C</tstamp>
+    </comp>
+    <comp ref="SW24">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEACE73</tstamp>
+    </comp>
+    <comp ref="SW26">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAD0F8</tstamp>
+    </comp>
+    <comp ref="SW27">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAD0FF</tstamp>
+    </comp>
+    <comp ref="SW28">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAD106</tstamp>
+    </comp>
+    <comp ref="SW29">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAD10D</tstamp>
+    </comp>
+    <comp ref="SW30">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAD114</tstamp>
+    </comp>
+    <comp ref="SW31">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAD11B</tstamp>
+    </comp>
+    <comp ref="SW25">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAD162</tstamp>
+    </comp>
+    <comp ref="SW32">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:Kailh_MX_Socket_reversible</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAD351</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAD67B</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAD7B1</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAD919</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAD9CC</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEADA83</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEADB10</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAE527</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAE52E</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAE535</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAE53C</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAE543</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAE54A</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAE7FA</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAE801</tstamp>
+    </comp>
+    <comp ref="D15">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAE808</tstamp>
+    </comp>
+    <comp ref="D17">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAE80F</tstamp>
+    </comp>
+    <comp ref="D18">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAE816</tstamp>
+    </comp>
+    <comp ref="D16">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAE81D</tstamp>
+    </comp>
+    <comp ref="D19">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAEAAF</tstamp>
+    </comp>
+    <comp ref="D20">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAEAB6</tstamp>
+    </comp>
+    <comp ref="D21">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAEABD</tstamp>
+    </comp>
+    <comp ref="D23">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAEAC4</tstamp>
+    </comp>
+    <comp ref="D24">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAEACB</tstamp>
+    </comp>
+    <comp ref="D22">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAEAD2</tstamp>
+    </comp>
+    <comp ref="D26">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAED22</tstamp>
+    </comp>
+    <comp ref="D27">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAED29</tstamp>
+    </comp>
+    <comp ref="D28">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAED30</tstamp>
+    </comp>
+    <comp ref="D30">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAED37</tstamp>
+    </comp>
+    <comp ref="D31">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAED3E</tstamp>
+    </comp>
+    <comp ref="D29">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAED45</tstamp>
+    </comp>
+    <comp ref="D32">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAEF52</tstamp>
+    </comp>
+    <comp ref="D25">
+      <value>D</value>
+      <libsource lib="keyboard_parts" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEAF001</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>MJ-4PP-9</value>
+      <libsource lib="helix-cache" part="MJ-4PP-9"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AEB464C</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="keyboard_parts" part="D">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="helix-cache" part="MJ-4PP-9">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">MJ-4PP-9</field>
+      </fields>
+      <pins>
+        <pin num="A" name="~" type="passive"/>
+        <pin num="B" name="~" type="passive"/>
+        <pin num="C" name="~" type="passive"/>
+        <pin num="D" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="helix-cache" part="ProMicro">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ProMicro</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TXO(PD3)" type="passive"/>
+        <pin num="2" name="RXI(PD2)" type="passive"/>
+        <pin num="3" name="GND" type="passive"/>
+        <pin num="4" name="GND" type="passive"/>
+        <pin num="5" name="D2(PD1)" type="passive"/>
+        <pin num="6" name="D3(PD0)" type="passive"/>
+        <pin num="7" name="D4(PD4)" type="passive"/>
+        <pin num="8" name="D5(PC6)" type="passive"/>
+        <pin num="9" name="D6(PD7)" type="passive"/>
+        <pin num="10" name="D7(PE6)" type="passive"/>
+        <pin num="11" name="D8(PB4)" type="passive"/>
+        <pin num="12" name="D9(PB5)" type="passive"/>
+        <pin num="13" name="D10(PB6)" type="passive"/>
+        <pin num="14" name="MOSI(PB2)" type="passive"/>
+        <pin num="15" name="MISO(PB3)" type="passive"/>
+        <pin num="16" name="SCK(PB1)" type="passive"/>
+        <pin num="17" name="A0(PF7)" type="passive"/>
+        <pin num="18" name="A1(PF6)" type="passive"/>
+        <pin num="19" name="A2(PF5)" type="passive"/>
+        <pin num="20" name="A3(PF4)" type="passive"/>
+        <pin num="21" name="VCC" type="passive"/>
+        <pin num="22" name="RESET" type="passive"/>
+        <pin num="23" name="GND" type="passive"/>
+        <pin num="24" name="RAW" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard_parts" part="SW_PUSH">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_PUSH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="keyboard_parts">
+      <uri>C:\Program Files\KiCad\share\kicad_lib_tmk-master\keyboard_parts.lib</uri>
+    </library>
+    <library logical="helix-cache">
+      <uri>C:\Users\xinpig\Documents\kbd projects\helix\helix-cache.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(D20-Pad2)">
+      <node ref="D20" pin="2"/>
+      <node ref="SW20" pin="2"/>
+    </net>
+    <net code="2" name="Net-(D21-Pad2)">
+      <node ref="SW21" pin="2"/>
+      <node ref="D21" pin="2"/>
+    </net>
+    <net code="3" name="Net-(D23-Pad2)">
+      <node ref="SW23" pin="2"/>
+      <node ref="D23" pin="2"/>
+    </net>
+    <net code="4" name="Net-(D24-Pad2)">
+      <node ref="SW24" pin="2"/>
+      <node ref="D24" pin="2"/>
+    </net>
+    <net code="5" name="Net-(D22-Pad2)">
+      <node ref="SW22" pin="2"/>
+      <node ref="D22" pin="2"/>
+    </net>
+    <net code="6" name="Net-(D26-Pad2)">
+      <node ref="D26" pin="2"/>
+      <node ref="SW26" pin="2"/>
+    </net>
+    <net code="7" name="Net-(D27-Pad2)">
+      <node ref="D27" pin="2"/>
+      <node ref="SW27" pin="2"/>
+    </net>
+    <net code="8" name="Net-(D28-Pad2)">
+      <node ref="D28" pin="2"/>
+      <node ref="SW28" pin="2"/>
+    </net>
+    <net code="9" name="Net-(D30-Pad2)">
+      <node ref="D30" pin="2"/>
+      <node ref="SW30" pin="2"/>
+    </net>
+    <net code="10" name="Net-(D31-Pad2)">
+      <node ref="SW31" pin="2"/>
+      <node ref="D31" pin="2"/>
+    </net>
+    <net code="11" name="row4">
+      <node ref="D30" pin="1"/>
+      <node ref="D26" pin="1"/>
+      <node ref="D27" pin="1"/>
+      <node ref="D28" pin="1"/>
+      <node ref="D29" pin="1"/>
+      <node ref="D31" pin="1"/>
+      <node ref="U1" pin="11"/>
+      <node ref="D32" pin="1"/>
+    </net>
+    <net code="12" name="Net-(D29-Pad2)">
+      <node ref="D29" pin="2"/>
+      <node ref="SW29" pin="2"/>
+    </net>
+    <net code="13" name="Net-(D32-Pad2)">
+      <node ref="D32" pin="2"/>
+      <node ref="SW32" pin="2"/>
+    </net>
+    <net code="14" name="Net-(D25-Pad2)">
+      <node ref="SW25" pin="2"/>
+      <node ref="D25" pin="2"/>
+    </net>
+    <net code="15" name="Net-(J1-PadA)">
+      <node ref="J1" pin="A"/>
+    </net>
+    <net code="16" name="Net-(J1-PadB)">
+      <node ref="J1" pin="B"/>
+    </net>
+    <net code="17" name="Net-(J1-PadC)">
+      <node ref="J1" pin="C"/>
+    </net>
+    <net code="18" name="Net-(J1-PadD)">
+      <node ref="J1" pin="D"/>
+    </net>
+    <net code="19" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2"/>
+      <node ref="SW12" pin="2"/>
+    </net>
+    <net code="20" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2"/>
+      <node ref="SW5" pin="2"/>
+    </net>
+    <net code="21" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2"/>
+      <node ref="SW6" pin="2"/>
+    </net>
+    <net code="22" name="Net-(D7-Pad2)">
+      <node ref="SW7" pin="2"/>
+      <node ref="D7" pin="2"/>
+    </net>
+    <net code="23" name="Net-(D8-Pad2)">
+      <node ref="SW8" pin="2"/>
+      <node ref="D8" pin="2"/>
+    </net>
+    <net code="24" name="Net-(D9-Pad2)">
+      <node ref="SW9" pin="2"/>
+      <node ref="D9" pin="2"/>
+    </net>
+    <net code="25" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2"/>
+      <node ref="SW10" pin="2"/>
+    </net>
+    <net code="26" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2"/>
+      <node ref="SW11" pin="2"/>
+    </net>
+    <net code="27" name="Net-(D4-Pad2)">
+      <node ref="SW4" pin="2"/>
+      <node ref="D4" pin="2"/>
+    </net>
+    <net code="28" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2"/>
+      <node ref="SW13" pin="2"/>
+    </net>
+    <net code="29" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2"/>
+      <node ref="SW14" pin="2"/>
+    </net>
+    <net code="30" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2"/>
+      <node ref="SW15" pin="2"/>
+    </net>
+    <net code="31" name="Net-(D16-Pad2)">
+      <node ref="D16" pin="2"/>
+      <node ref="SW16" pin="2"/>
+    </net>
+    <net code="32" name="Net-(D17-Pad2)">
+      <node ref="SW17" pin="2"/>
+      <node ref="D17" pin="2"/>
+    </net>
+    <net code="33" name="Net-(D18-Pad2)">
+      <node ref="D18" pin="2"/>
+      <node ref="SW18" pin="2"/>
+    </net>
+    <net code="34" name="Net-(D19-Pad2)">
+      <node ref="SW19" pin="2"/>
+      <node ref="D19" pin="2"/>
+    </net>
+    <net code="35" name="Net-(U1-Pad23)">
+      <node ref="U1" pin="23"/>
+    </net>
+    <net code="36" name="data">
+      <node ref="U1" pin="2"/>
+    </net>
+    <net code="37" name="Net-(U1-Pad3)">
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="38" name="Net-(U1-Pad4)">
+      <node ref="U1" pin="4"/>
+    </net>
+    <net code="39" name="Net-(U1-Pad5)">
+      <node ref="U1" pin="5"/>
+    </net>
+    <net code="40" name="Net-(U1-Pad6)">
+      <node ref="U1" pin="6"/>
+    </net>
+    <net code="41" name="row0">
+      <node ref="D1" pin="1"/>
+      <node ref="U1" pin="7"/>
+      <node ref="D3" pin="1"/>
+      <node ref="D5" pin="1"/>
+      <node ref="D2" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="D6" pin="1"/>
+    </net>
+    <net code="42" name="Net-(U1-Pad21)">
+      <node ref="U1" pin="21"/>
+    </net>
+    <net code="43" name="Net-(U1-Pad12)">
+      <node ref="U1" pin="12"/>
+    </net>
+    <net code="44" name="Net-(U1-Pad22)">
+      <node ref="U1" pin="22"/>
+    </net>
+    <net code="45" name="Net-(U1-Pad13)">
+      <node ref="U1" pin="13"/>
+    </net>
+    <net code="46" name="Net-(U1-Pad24)">
+      <node ref="U1" pin="24"/>
+    </net>
+    <net code="47" name="col0">
+      <node ref="SW19" pin="1"/>
+      <node ref="SW7" pin="1"/>
+      <node ref="SW1" pin="1"/>
+      <node ref="SW26" pin="1"/>
+      <node ref="SW13" pin="1"/>
+      <node ref="U1" pin="20"/>
+    </net>
+    <net code="48" name="Net-(D1-Pad2)">
+      <node ref="SW1" pin="2"/>
+      <node ref="D1" pin="2"/>
+    </net>
+    <net code="49" name="col1">
+      <node ref="SW8" pin="1"/>
+      <node ref="SW20" pin="1"/>
+      <node ref="SW14" pin="1"/>
+      <node ref="SW2" pin="1"/>
+      <node ref="U1" pin="19"/>
+      <node ref="SW27" pin="1"/>
+    </net>
+    <net code="50" name="Net-(D2-Pad2)">
+      <node ref="SW2" pin="2"/>
+      <node ref="D2" pin="2"/>
+    </net>
+    <net code="51" name="Net-(D3-Pad2)">
+      <node ref="SW3" pin="2"/>
+      <node ref="D3" pin="2"/>
+    </net>
+    <net code="52" name="row1">
+      <node ref="D12" pin="1"/>
+      <node ref="D11" pin="1"/>
+      <node ref="U1" pin="8"/>
+      <node ref="D8" pin="1"/>
+      <node ref="D9" pin="1"/>
+      <node ref="D7" pin="1"/>
+      <node ref="D10" pin="1"/>
+    </net>
+    <net code="53" name="row2">
+      <node ref="D15" pin="1"/>
+      <node ref="U1" pin="9"/>
+      <node ref="D13" pin="1"/>
+      <node ref="D14" pin="1"/>
+      <node ref="D17" pin="1"/>
+      <node ref="D18" pin="1"/>
+      <node ref="D16" pin="1"/>
+    </net>
+    <net code="54" name="row3">
+      <node ref="D25" pin="1"/>
+      <node ref="D22" pin="1"/>
+      <node ref="D24" pin="1"/>
+      <node ref="D23" pin="1"/>
+      <node ref="D19" pin="1"/>
+      <node ref="D21" pin="1"/>
+      <node ref="D20" pin="1"/>
+      <node ref="U1" pin="10"/>
+    </net>
+    <net code="55" name="col2">
+      <node ref="SW15" pin="1"/>
+      <node ref="SW21" pin="1"/>
+      <node ref="SW28" pin="1"/>
+      <node ref="U1" pin="18"/>
+      <node ref="SW9" pin="1"/>
+      <node ref="SW3" pin="1"/>
+    </net>
+    <net code="56" name="col3">
+      <node ref="SW22" pin="1"/>
+      <node ref="SW29" pin="1"/>
+      <node ref="SW16" pin="1"/>
+      <node ref="SW10" pin="1"/>
+      <node ref="U1" pin="17"/>
+      <node ref="SW4" pin="1"/>
+    </net>
+    <net code="57" name="col4">
+      <node ref="U1" pin="16"/>
+      <node ref="SW30" pin="1"/>
+      <node ref="SW5" pin="1"/>
+      <node ref="SW23" pin="1"/>
+      <node ref="SW11" pin="1"/>
+      <node ref="SW17" pin="1"/>
+    </net>
+    <net code="58" name="col5">
+      <node ref="SW31" pin="1"/>
+      <node ref="SW6" pin="1"/>
+      <node ref="SW12" pin="1"/>
+      <node ref="SW24" pin="1"/>
+      <node ref="U1" pin="15"/>
+      <node ref="SW18" pin="1"/>
+    </net>
+    <net code="59" name="LED">
+      <node ref="U1" pin="1"/>
+    </net>
+    <net code="60" name="col6">
+      <node ref="SW32" pin="1"/>
+      <node ref="SW25" pin="1"/>
+      <node ref="U1" pin="14"/>
+    </net>
+  </nets>
+</export>
